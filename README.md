@@ -7,5 +7,5 @@ A lot of the code was provided by Weights and Biases for evaluating differences 
 Opening up the notebook in Google Colab or a local notebook application like Jupyter will allow for easy
 running of the code by anyone with a Weights and Biases account.
 
-### Note
-I am in no way affiliated with Weights and Biases.
+
+**Note: I am in no way affiliated with Weights and Biases.**
